@@ -18,7 +18,17 @@ Truth Table: The truth table for the 4-bit parity generator lists all possible c
 
 # LOGIC DIAGRAM
 ![XOR](https://github.com/MukeshVelmurugan/Simulation-project--Digital-Electronics/assets/118707363/175c70c0-8d8b-4683-a1ba-d07229ecf619)
-
+# PROCEDURE
+#### STEP-1
+Create a verilog HDL file 
+#### STEP-2
+Assign the input and output variables 
+#### STEP-3
+Run the RTL viewer diagram 
+#### STEP-4
+Give the needed input for timing diagram
+#### STEP-5
+Create the truth table for the code
 # ODD PARITY
 ### PROGRAM
 ``` VERILOG
